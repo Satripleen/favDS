@@ -1,8 +1,8 @@
 def stringUpperCase(string):
-    string3 = string.upper()
+    string4 = string.upper()
 
 
 
-    return string3
+    return string4
 
-print(stringUpperCase("Satripleen"))
+print(stringUpperCase("Anmol"))
