@@ -1,4 +1,5 @@
 def stringUpperCase(string):
-    return string.upper()
+    string2  = string.upper()
+    return string2
 
 print(stringUpperCase("Satripleen"))
